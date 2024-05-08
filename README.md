@@ -12,11 +12,11 @@ Considere uma base de dados relacional que possua uma tabela de usuários com os
 Utilizando consultas SQL, mostre que não é possível efetuar uma quantidade de consultas que seja 
 superior a P(A), sendo A o conjunto formado pelas n-tuplas que compõem as linhas da tabela. Para esse caso, ilustre todas as consultas e resultados possíveis.
 
-<img src="images/Imagem1.png" alt="" width="1200" >
-<img src="images/Imagem2.png" alt="" width="1200" >
-<img src="images/Imagem3.png" alt="" width="1200" >
-<img src="images/Imagem4.png" alt="" width="1200" >
-<img src="images/Imagem5.png" alt="" width="1200" >
+<img src="imagens/Imagem1.png" alt="" width="1200" >
+<img src="imagens/Imagem2.png" alt="" width="1200" >
+<img src="imagens/Imagem3.png" alt="" width="1200" >
+<img src="imagens/Imagem4.png" alt="" width="1200" >
+<img src="imagens/Imagem5.png" alt="" width="1200" >
 
 
 
