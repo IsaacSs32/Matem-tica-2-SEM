@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Jogo com Game Over</title>
+    <style>
+      canvas {
+        width: 50vw;
+        height: 50vh;
+        display: block;
+        background-color: black;
+        margin: auto;
+      }
+      button {
+        display: block;
+        margin: auto;
+        width: 50vw;
+      }
+      #score_display {
+        text-align: center;
+        color: rgb(98, 231, 37);
+        margin: 2px;
+        border-color: black;
+      }
+    </style>
+  </head>
+  <body>
+    <canvas id="game_screen"></canvas>
+    <button id="start_button">Start Game</button>
+    <div id="score_display"></div>
+
+    <script src="jogo.js"></script>
+  </body>
+</html>
